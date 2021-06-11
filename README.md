@@ -1,1 +1,1 @@
-# uncovation-calculator
+# inconventional calculator using Javascript 
